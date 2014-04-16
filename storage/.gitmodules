@@ -1,0 +1,3 @@
+[submodule "pizza"]
+	path = pizza
+	url = https://freez_meinster@bitbucket.org/freez_meinster/pizza.git
