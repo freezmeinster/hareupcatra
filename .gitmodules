@@ -1,0 +1,3 @@
+[submodule "storage/pizza"]
+	path = storage/pizza
+	url = https://github.com/freezmeinster/pizza.git
