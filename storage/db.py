@@ -1,4 +1,5 @@
-from utils.db import Storage,get_session
+from utils.db.db import get_session
+from utils.db.storage import Storage
 
 session = get_session()
 
